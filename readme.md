@@ -6,13 +6,17 @@ This weeks challenge is to create a day scheduler. When users visit they site, t
 
 ## Deployment
 
-This website is not yet live but will be deployed at the following url:
+This website is live and can be viewed at the following url:
 [https://smithm4949.github.io/scheduler_challenge_05/](https://smithm4949.github.io/scheduler_challenge_05/)
+
+## Example
+
+A screenshot of the app and a schedule taken during the 10am block is included below:![Hour long blocks are color coded and show a sample schedule](./assets/app_screenshot.png)
 
 ## Authors and acknowledgment
 
-This homework assignment is being completed and developed by Myles Smith. Starter code was provided by Trilogy/GWU.
+This homework assignment was completed and developed by Myles Smith. Starter code was provided by Trilogy/GWU.
 
 ## Project status
 
-This project is under development.
+This project is feature complete according to the acceptance criteria and there are currently no plans for further development.
