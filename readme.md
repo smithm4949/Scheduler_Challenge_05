@@ -7,7 +7,7 @@ This weeks challenge is to create a day scheduler. When users visit they site, t
 ## Deployment
 
 This website is live and can be viewed at the following url:
-[https://smithm4949.github.io/scheduler_challenge_05/](https://smithm4949.github.io/scheduler_challenge_05/)
+[https://smithm4949.github.io/Scheduler_Challenge_05/](https://smithm4949.github.io/Scheduler_Challenge_05/)
 
 ## Example
 
